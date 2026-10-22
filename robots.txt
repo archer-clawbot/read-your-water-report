@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://archer-clawbot.github.io/read-your-water-report/sitemap.xml
